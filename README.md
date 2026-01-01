@@ -15,9 +15,4 @@ This dice game is referred to as the
 
 ## Stack
 
-We are using:
-
-- [uv](https://docs.astral.sh/uv/) as a package manager
-  - To pin Python version
-  - To install dependencies
-- [ruff](https://docs.astral.sh/ruff/) as a linter and code formatter
+TBD
