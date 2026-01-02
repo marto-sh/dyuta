@@ -10,7 +10,10 @@ impl GameId {
     }
 }
 
-/// Represents a game with its metadata
+/// Represents a game (e.g. Poker, Chess, Checkers, Memory) with its metadata
+///
+/// Not to be confused with an "instance" of that game (e.g. a specific poker game made on a given
+/// day, with some specific players)
 pub struct Game {
     /// Unique identifier for this game
     pub id: GameId,
