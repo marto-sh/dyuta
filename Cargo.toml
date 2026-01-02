@@ -1,3 +1,3 @@
 [workspace]
-members = ["memory"]
+members = ["memory", "shared"]
 resolver = "2"
